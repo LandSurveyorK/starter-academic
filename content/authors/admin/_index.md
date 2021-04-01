@@ -18,9 +18,13 @@ bio: My research interests include statistifs, machine learning and deep learnin
 
 # Interests to show in About widget
 interests:
+- Statistical Machine Learning 
+- Probabilistic Graphical Model
+- Deep Learning 
+- Natural Language Processing
+- Causal Inference
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
 
 # Education to show in About widget
 education:
