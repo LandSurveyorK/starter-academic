@@ -51,6 +51,7 @@ categories:
 
 ## Get Started
 
+$$\int_a^b f(x)\,dx = F(b)- F(a), \quad (\text{Newton-Leibniz})$$
 - 👉 [**Create a new site**](https://wowchemy.com/templates/)
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
