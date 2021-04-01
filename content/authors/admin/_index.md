@@ -14,7 +14,7 @@ organizations:
   url: https://www.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistifs, machine learning and deep learning.
+bio: My research interests include statistics, machine learning and deep learning.
 
 # Interests to show in About widget
 interests:
