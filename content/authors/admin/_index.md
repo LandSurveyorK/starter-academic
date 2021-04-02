@@ -6,12 +6,12 @@ title: Wei Peng
 superuser: true
 
 # Role/position/tagline
-role: Statistics Ph.D.
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pittsburgh
-  url: https://www.pitt.edu/
+- name: Signature Diagnositcs Inc.
+#  url: https://www.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistics, machine learning and deep learning.
@@ -20,8 +20,8 @@ bio: My research interests include statistics, machine learning and deep learnin
 interests:
 - Statistical Machine Learning 
 - Probabilistic Graphical Model
-- Deep Learning 
 - Natural Language Processing
+- Deep Learning 
 - Causal Inference
 - Artificial Intelligence
 
@@ -72,8 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wei Peng is a Data Scientist at Signature Diagnostics. His research interests include statistics, machine learning and deep learning. He is also a sports analytic at https://model284.com/. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
